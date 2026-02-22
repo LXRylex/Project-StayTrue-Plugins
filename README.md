@@ -4,6 +4,8 @@
 
 - Download Pins/Boards Plugin Firefox Version: Soon
 
+- Please report issues on here in GitHub
+
 # How To Use:
 
 Go to your **Boards** from the side panel. Click one of the Tabs that says " Pins " or " Boards "
