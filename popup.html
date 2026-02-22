@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Download Pins/Boards Add-on</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="card">
+    <div class="title">Download Pins/Boards Add-on</div>
+    <div class="sub">a plugin made for Pinterest AMOLED Theme</div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="k">Images</div>
+        <div class="v" id="imgCount">0</div>
+      </div>
+      <div class="stat">
+        <div class="k">Videos</div>
+        <div class="v" id="vidCount">0</div>
+      </div>
+      <div class="stat total">
+        <div class="k">Total</div>
+        <div class="v" id="totalCount">0</div>
+      </div>
+    </div>
+
+    <div class="status" id="status">Ready.</div>
+
+    <div class="actions">
+      <button id="btnDownload" class="btn primary" type="button">Download media</button>
+      <button id="btnClear" class="btn" type="button">Clear saved</button>
+    </div>
+
+    <div class="hint">
+      Tip: Only use it in your pins/boards otherwise it will try to scrape your whole homepage images to download lol
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
