@@ -12,3 +12,5 @@ Go to your **Boards** from the side panel. Click one of the Tabs that says " Pin
 After pressing download you'll see it will start scrolling down by itself **which is very important of how it works** it basically scanning every pin link and stores it to make it ready forthe download process.
 
 Once it reaches the bottom of the pins/board it will stay idle for 5 seconds to confirm that there is no more content to be scanned, once that done it will start packing to zip process. once that is done your images will be downloaded!
+
+# Reminder: Once you download the pins you wanted don't forget to press **Clear**
