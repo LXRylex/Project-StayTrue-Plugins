@@ -1,3 +1,5 @@
+# WARNING: THIS PLUGIN IS IN ALPHA STAGE. THAT MEANS IT IS IN A VERY EARLY ACCESS STAGE OF DEVELOPMENT
+
 # Project-StayTrue-Plugins
 
 - Download Pins/Boards Plugin for Chromium: Soon
