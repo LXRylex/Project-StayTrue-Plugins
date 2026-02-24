@@ -2,7 +2,7 @@
 
 # Project-StayTrue-Plugins
 
-- Download Pins/Boards Plugin for Chromium: Soon
+- Download Pins/Boards Plugin for Chromium: https://chromewebstore.google.com/detail/download-pinsboards-add-o/dckeachmifeldpanciikcopepeiiblkj
 
 - Download Pins/Boards Plugin Firefox Version: Soon
 
